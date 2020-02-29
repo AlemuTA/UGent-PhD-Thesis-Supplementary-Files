@@ -4,6 +4,6 @@ This GitHub repository includes files that contain supplementary results referen
 * For supplementary results for Chapter 3 -- please see Supplementary-File---Chapter-3.
 * For supplementary results for Chapter 4 -- please see Supplementary-File---Chapter-4.
 * For supplementary results for Chapter 5 -- please see Supplementary-File---Chapter-5.
-* For supplementary results for Chapter 6 -- please see Supplementary-File---Chapter-6.
+* For supplementary results for Chapter 7 -- please see Supplementary-File---Chapter-7.
   
 
